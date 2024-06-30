@@ -1,6 +1,6 @@
 # AI_Project_team7
 
-<img src = 'imgs/team_logo.png' width="200" height="200"/>
+<img src = 'imgs/team_logo2.png' width="200" height="200"/>
 
 ## AI 개발 프로젝트
 **(Team 7) 77ㅣ리77ㅣ리**
