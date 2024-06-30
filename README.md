@@ -1,4 +1,4 @@
-# WASSUP_Project_team7
+# AI_Project_team7
 
 <img src = 'imgs/team_logo.png' width="200" height="200"/>
 
